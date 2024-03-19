@@ -11,3 +11,5 @@ div {
     height: 110px;
     overflow: scroll;
   }
+
+  body{background-color:aquamarine; } 
